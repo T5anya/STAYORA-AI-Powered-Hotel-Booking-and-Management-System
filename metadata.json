@@ -1,0 +1,8 @@
+{
+  "name": "Stayora",
+  "description": "Stay Smarter. Travel Better. Full-stack, AI-powered, multi-hotel booking marketplace and property management system with business intelligence, operations, and predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

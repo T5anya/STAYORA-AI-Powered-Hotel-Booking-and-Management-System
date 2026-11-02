@@ -65,7 +65,7 @@ Switch between live personas instantly from the top navigation role dropdown:
 
 | Role | Name | Email | Password | Pre-seeded Hotel / Access |
 | :--- | :--- | :--- | :--- | :--- |
-| **Customer** | Tanya Agarwal | `tanyaagr229@gmail.com` | `Password@123` | Active Jaipur Booking (`STY-RAJ-88421`), Group Trip |
+| **Customer** | Tanya Agarwal | `tanya89@gmail.com` | `Password@123` | Active Jaipur Booking (`STY-RAJ-88421`), Group Trip |
 | **Customer (Demo)** | Aditya Sen | `customer@stayora.com` | `Password@123` | Active bookings & reviews |
 | **Hotel Owner** | Vikramaditya Singh | `owner@stayora.com` | `Password@123` | The Oberoi Rajvilas (ADR, RevPAR, Rooms, AI Pricing) |
 | **Hotel Staff** | Rajesh Verma | `staff@stayora.com` | `Password@123` | Front Desk Receptionist (Express QR Scanner & Turnovers) |
